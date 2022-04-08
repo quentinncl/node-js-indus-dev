@@ -17,8 +17,7 @@
     "@babel/preset-env": "^7.8.7",
     "@babel/register": "^7.8.7",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
-    "husky": "^7.0.0"
-  },
-  "dependencies": {}
+    "husky": "^7.0.0",
+    "mocha": "^6.2.0"
+  }
 }
